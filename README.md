@@ -54,6 +54,8 @@ This project provides a simple console-based password manager that securely stor
 - 💾 Binary File Storage
 - 📁 Modular Program Structure
 
+![MainMenu Screenshot](Output/MainMenu.png)
+
 ---
 
 # Technologies Used
