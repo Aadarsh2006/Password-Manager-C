@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 #include "password.h"
 #include "master_password.h"
 
